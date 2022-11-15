@@ -13,3 +13,6 @@ Or, translation strings may be defined within JSON files that are placed within 
 /lang
     en.json
     es.json
+Credits: 
+gitlocalize.com
+Laravel.com
